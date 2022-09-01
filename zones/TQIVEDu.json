@@ -41,6 +41,10 @@
     {
       "objectId": "Orders_enriched_prepared_copy",
       "objectType": "DATASET"
+    },
+    {
+      "objectId": "Order_test_zone",
+      "objectType": "DATASET"
     }
   ],
   "shared": [],
