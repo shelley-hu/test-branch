@@ -111,7 +111,7 @@
       "shareAllInputDatasets": false
     }
   },
-  "owner": "admin",
+  "owner": "test1",
   "permissionsVersion": "LEGACY",
   "permissions": [],
   "additionalDashboardUsers": {
@@ -233,7 +233,6 @@
     "dkuProperties": []
   },
   "name": "Haiku Starter for Administrator",
-  "projectStatus": "Sandbox",
   "imgPattern": 8,
   "metrics": {
     "probes": [],
@@ -290,11 +289,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 141,
+    "versionNumber": 142,
     "lastModifiedBy": {
       "login": "test1"
     },
-    "lastModifiedOn": 1662035647927
+    "lastModifiedOn": 1662038367826
   },
   "creationTag": {
     "versionNumber": 0,
@@ -308,7 +307,8 @@
   "tags": [
     "tutorial",
     "downloads",
-    "section:General Topics"
+    "section:General Topics",
+    "duplicated"
   ],
   "customFields": {},
   "checklists": {
