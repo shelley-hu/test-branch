@@ -2,7 +2,12 @@
   "name": "newtestzone",
   "color": "#465A64",
   "items": [],
-  "shared": [],
+  "shared": [
+    {
+      "objectId": "Orders_enriched_prepared",
+      "objectType": "DATASET"
+    }
+  ],
   "tags": [],
   "customFields": {},
   "checklists": {
