@@ -1,7 +1,16 @@
 {
   "name": "newtestzone",
   "color": "#465A64",
-  "items": [],
+  "items": [
+    {
+      "objectId": "compute_Orders_enriched_prepared_copy_2",
+      "objectType": "RECIPE"
+    },
+    {
+      "objectId": "Orders_enriched_prepared_copy_2",
+      "objectType": "DATASET"
+    }
+  ],
   "shared": [
     {
       "objectId": "Orders_enriched_prepared",
