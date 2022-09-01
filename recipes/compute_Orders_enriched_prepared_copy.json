@@ -69,7 +69,7 @@
     "main": {
       "items": [
         {
-          "ref": "Orders_enriched_prepared_copy",
+          "ref": "Order_test_zone",
           "appendMode": false
         }
       ]
@@ -77,11 +77,11 @@
   },
   "labels": [],
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "test1"
     },
-    "lastModifiedOn": 1662040729730
+    "lastModifiedOn": 1662040754145
   },
   "creationTag": {
     "versionNumber": 0,
